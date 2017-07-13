@@ -1,2 +1,2 @@
-# Install pod
+# Install podd
 pod install
