@@ -1,0 +1,5 @@
+FASTLANEPASSWORD=${1}
+
+export FASTLANE_PASSWORD="${FASTLANEPASSWORD}"
+export LANG='en_US.UTF-8'
+fastlane beta
